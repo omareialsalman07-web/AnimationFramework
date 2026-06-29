@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AnimationFramwork",
+	"Description": "This will make Game Animation Samples Project Cleaner and really good for C++ developers",
+	"Category": "Other",
+	"CreatedBy": "OmarEialsalman",
+	"CreatedByURL": "https://github.com/omareialsalman07-web",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AnimationFramwork",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
